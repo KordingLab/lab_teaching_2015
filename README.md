@@ -1,5 +1,5 @@
-K LAB Training
-==============
+K-LAB Training Session
+======================
 
 IPython notebook for K-lab traininig session. Examples cover running Spark on Quest (Northwestern Computing Clusters): Map Reduce in simple text file and gradient descent in Logistic Regression. 
 
