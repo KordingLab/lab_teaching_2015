@@ -10,4 +10,6 @@ Presentation covers how to get up running [Spark](http://spark.apache.org/) on Q
 
 ## Session 2
 
-In this presentation, We will go through simple neural network architecture and math behind it. We will then code the back propagation algorithm and test it on few examples.
+In this presentation, we will go through simple neural network architecture and math behind it including forward propagation and back propagation.
+We will then code the forward propagation and back propagation algorithm and test it on MNIST examples. If we have time, we will go through existing
+python packages that implement Neural Network (e.g. [`scikit-neuralnetwork`](https://github.com/aigamedev/scikit-neuralnetwork), [`pybrain`](http://pybrain.org/), [`nolearn`](https://github.com/dnouri/nolearn)(Lasagne) ).
