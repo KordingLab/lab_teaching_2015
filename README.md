@@ -11,10 +11,13 @@ Presentation covers how to get up running [Spark](http://spark.apache.org/) on Q
 ## Session 2
 
 This tutorial is one of the Deep learning tutorial by Kording lab.
-In this presentation, we will go through simple neural network architecture and math behind it including forward propagation and back propagation.
+In this presentation, we will go through simple neural network architecture and math behind it including forward propagation and back propagation (ref. Andrew Ng lecture).
 We will then code the forward propagation and back propagation algorithm and test it on MNIST examples. If we have time, we will go through existing
 python packages that implement Neural Network (e.g. [`Lasagne`](https://github.com/Lasagne/Lasagne), [`scikit-neuralnetwork`](https://github.com/aigamedev/scikit-neuralnetwork), [`pybrain`](http://pybrain.org/), [`nolearn`](https://github.com/dnouri/nolearn).
 
 ## Session 3
 
-Recurrent Neural Network (not available yet)
+In this session, we will go over Recurrent Neural Network (RNN) and its application in Natural Language Processing (NLP). 
+We'll go through architechure of the RNN also a bit of Convolutional Neural Network (CNN) presented by Pavan. 
+We use [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) as main materials. 
+After the lecture, We will go over implementing RNN and CNN using TensorFlow for application in NLP.
