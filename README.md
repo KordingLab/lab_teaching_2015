@@ -15,9 +15,9 @@ In this presentation, we will go through simple neural network architecture and 
 We will then code the forward propagation and back propagation algorithm and test it on MNIST examples. If we have time, we will go through existing
 python packages that implement Neural Network (e.g. [`Lasagne`](https://github.com/Lasagne/Lasagne), [`scikit-neuralnetwork`](https://github.com/aigamedev/scikit-neuralnetwork), [`pybrain`](http://pybrain.org/), [`nolearn`](https://github.com/dnouri/nolearn).
 
+
 ## Session 3
 
-In this session, we will go over Recurrent Neural Network (RNN) and its application in Natural Language Processing (NLP). 
-We'll go through architechure of the RNN also a bit of Convolutional Neural Network (CNN) presented by Pavan. 
-We use [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) as main materials. 
-After the lecture, We will go over implementing RNN and CNN using TensorFlow for application in NLP.
+In this session, we will go over Recurrent Neural Network (RNN) and its application in Natural Language Processing (NLP).
+We'll go through architecture of the RNN also a bit of Convolutional Neural Network (CNN) presented by Pavan.
+We use blog posts and [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) as main materials. After the lecture, We will go over implementing RNN for application in NLP.
