@@ -21,3 +21,10 @@ python packages that implement Neural Network (e.g. [`Lasagne`](https://github.c
 In this session, we will go over Recurrent Neural Network (RNN) and its application in Natural Language Processing (NLP).
 We'll go through architecture of the RNN also a bit of Convolutional Neural Network (CNN) presented by Pavan.
 We use blog posts and [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) as main materials. After the lecture, We will go over implementing RNN for application in NLP.
+
+
+## Session 4
+
+In this tutorial we show how to use TensorFlow to build and train 2 models: a Softmax Regression Model and a CNN. 
+The example shows how to train the networks and how save the variables and the computation graph for display in the TensorFlow board.
+Further info can be found here: [TensorFlow.org](https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/pros/index.html)
