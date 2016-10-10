@@ -1,7 +1,7 @@
-Kording Lab Training Session
-======================
+Kording lab teaching 2015
+=========================
 
-Repository for training session by Titipat Achakulvisut at Kording's Lab.
+Repository for lab teaching at Kording's Lab.
 
 ## Session 1
 
@@ -25,14 +25,14 @@ We use blog posts and [CS224d: Deep Learning for Natural Language Processing](ht
 
 ## Session 4 (Luca Lonini and Daniel Acuna)
 
-In this tutorial we show how to use TensorFlow to build and train 2 models: a Softmax Regression Model and a CNN. 
+In this tutorial we show how to use TensorFlow to build and train 2 models: a Softmax Regression Model and a CNN.
 The example shows how to train the networks and how save the variables and the computation graph for display in the TensorFlow board.
 Further info can be found here: [TensorFlow.org](https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/pros/index.html)
 
 
 ## Session 5 (Pavan Ramkumar and Luca Lonini)
 
-In this session, we go through various kind of ConvNet visualization techniques. We focus on techniques to visualize the entire neural code, layerwise neural codes, individual units, as well as individual layers and units conditioned on specific images. 
+In this session, we go through various kind of ConvNet visualization techniques. We focus on techniques to visualize the entire neural code, layerwise neural codes, individual units, as well as individual layers and units conditioned on specific images.
 
 Here is a list of papers we discuss.
 
